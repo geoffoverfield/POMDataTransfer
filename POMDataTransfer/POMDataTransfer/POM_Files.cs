@@ -10,6 +10,7 @@ namespace POMDataTransfer
     {
         public static string UsersFile = @"D:\$\POMDataTransfer\POMDataTransfer\POMDataTransfer\Resources\PeaceOfMind_Clients_SoapVault.xlsx";
         public static string MailingList = @"D:\$\POMDataTransfer\POMDataTransfer\POMDataTransfer\Resources\Mailing_List.xlsx";
+        public static string PhoneNumbers = @"D:\$\POMDataTransfer\POMDataTransfer\POMDataTransfer\Resources\Member_PhoneNumbers.xlsx";
 
         public static string UsersSaveDirectoryCSV = @"D:\$\POMDataTransfer\POMDataTransfer\POMDataTransfer\Resources\PeaceOfMind_Clients_SoapVault.csv";
     }
